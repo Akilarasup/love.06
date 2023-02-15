@@ -4,11 +4,6 @@ font-size: 30px;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 color: blue;
 }
-img
-{
-    border: 5px solid rgb(112, 112, 112);
-}
-
 a:link, a:visited
 {
     background-color: red;
